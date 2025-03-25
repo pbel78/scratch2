@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "mqtt": "^4.2.7",
+    "websocket": "^1.0.35"
+  }
+}
